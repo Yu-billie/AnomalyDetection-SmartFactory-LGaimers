@@ -22,3 +22,7 @@
     * TabNetCalssifier modeling gets in stucked [ON GOING]
   - Ensemble Modeling 
     - 2 level stacking 
+
+- 02/21/2023(TUE): 
+  - params tuning: OPTUNA 
+  - XGBClassifier (predict directly Y_Class)
