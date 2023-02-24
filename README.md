@@ -27,6 +27,6 @@
   - params tuning: OPTUNA 
   - XGBClassifier (predict directly Y_Class)
   
-- 02/24/2023(FRI);
+- 02/24/2023(FRI): SCORE 0.72765!!!!!
   - DL: catBoostClassifier + optuna params optimization 
   - 03/07 code & PPT submission  
