@@ -26,3 +26,7 @@
 - 02/21/2023(TUE): 
   - params tuning: OPTUNA 
   - XGBClassifier (predict directly Y_Class)
+  
+- 02/24/2023(FRI);
+  - DL: catBoostClassifier + optuna params optimization 
+  - 03/07 code & PPT submission  
