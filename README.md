@@ -35,3 +35,6 @@
   - sequential model: 
     - input layer, output layer(#neuron=#label)
     - num of hidden layers = 0 --> only capable of representing linear separable functions or decisions
+      - when features are linearly correlated, it can be done by using ML.
+      - but even in linear correlation, if neural networks are used, there is no need for any hidden layer   
+
