@@ -30,3 +30,8 @@
 - 02/24/2023(FRI): SCORE 0.72765!!!!!
   - DL: Sequential model + catBoostClassifier + optuna params optimization  
   - 03/07 code & PPT submission  
+  
+- 02/25/2023(SAT): best output is not recalled 
+  - sequential model: 
+    - input layer, output layer(#neuron=#label)
+    - num of hidden layers = 0 --> only capable of representing linear separable functions or decisions
