@@ -37,4 +37,11 @@
     - num of hidden layers = 0 --> only capable of representing linear separable functions or decisions
       - when features are linearly correlated, it can be done by using ML.
       - but even in linear correlation, if neural networks are used, there is no need for any hidden layer   
+      
+- 02/26/2023(SUN): Tensorflow.Keras NN MLP (Sequential model) is not reproductable 
+  - sequential model + optuna
+  - catBoost + GBC + voting classifier + optuna   
+- 02/27/2023(MON): focusing on ML ensemble 
+  - catBoost + randomizedSearch + stacking ensemble 
+  - tried sequential model finally (CPU setting + seed fixing) but not recallable
 
