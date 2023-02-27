@@ -40,8 +40,11 @@
       
 - 02/26/2023(SUN): Tensorflow.Keras NN MLP (Sequential model) is not reproductable 
   - sequential model + optuna
-  - catBoost + GBC + voting classifier + optuna   
-- 02/27/2023(MON): focusing on ML ensemble 
+    - Tensorflow.keras: random --> familiar BUT not recalled
+    - Torch: unfamiliar AND output is expected to be same 
+  - catBoost + GBC + voting classifier + optuna
+  
+- 02/27/2023(MON): focusing on ML ensemble
   - catBoost + randomizedSearch + stacking ensemble 
   - tried sequential model finally (CPU setting + seed fixing) but not recallable
 
