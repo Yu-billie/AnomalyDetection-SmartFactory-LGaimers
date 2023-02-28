@@ -50,4 +50,5 @@
 - 02/28/2023(TUE): FINISHED
   - VotingClassifier 
   - based on each basic model's performance    
-
+- RESULT
+  - overfitting, CV 
