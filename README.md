@@ -47,4 +47,7 @@
 - 02/27/2023(MON): focusing on ML ensemble
   - catBoost + randomizedSearch + stacking ensemble 
   - tried sequential model finally (CPU setting + seed fixing) but not recallable
+- 02/28/2023(TUE): FINISHED
+  - VotingClassifier 
+  - based on each basic model's performance    
 
