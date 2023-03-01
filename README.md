@@ -51,4 +51,14 @@
   - VotingClassifier 
   - based on each basic model's performance    
 - RESULT
-  - overfitting, CV 
+  - overfitting, CV
+  
+- 03/01/2023(WED): feature distribution (DATA ANALYSIS), MLP in torch 
+  - feature distribution: imbalanced --> MinMaxScaler 
+  - MLP: code in torch 
+    - BUT still results are random 
+  - FEEDBACK: 
+    - tensorBoard --> automatical logging tool for parameters experiments etc. 
+    - decrease # neuron slowly 
+    - deep layers to make training hard --> prevent OVERFITTING 
+  
