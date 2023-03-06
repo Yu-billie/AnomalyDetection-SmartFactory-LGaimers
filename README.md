@@ -61,4 +61,6 @@
     - tensorBoard --> automatical logging tool for parameters experiments etc. 
     - decrease # neuron slowly 
     - deep layers to make training hard --> prevent OVERFITTING 
+  - 03/04~03/06: PPT 
+    - portfolio summary
   
