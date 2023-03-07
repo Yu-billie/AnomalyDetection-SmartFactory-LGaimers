@@ -1,4 +1,5 @@
 # smartFactory-LGaimers-Dacon
+## Defection Multiclass Classification, Prediction, Industrial AI Modeling 
 
 * LG Aimers Hackathon - Smart Factory Classification 
 * code, csv files, related materials 
