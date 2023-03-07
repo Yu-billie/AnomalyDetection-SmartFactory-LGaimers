@@ -634,7 +634,7 @@ submit['Y_Class'] = preds
 submit.to_csv('smartFactorySubmission.csv', index=False)
 
 """# 6.References
-PPT에 기재하였습니다
+PPT에 기재하였습니다.
 
 # THE END
 """
