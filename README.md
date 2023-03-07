@@ -51,7 +51,8 @@
   - VotingClassifier 
   - based on each basic model's performance    
 - RESULT
-  - overfitting, CV
+  - overfitting
+  - Cross-Validation is VERY IMPORTANT 
   
 - 03/01/2023(WED): feature distribution (DATA ANALYSIS), MLP in torch 
   - feature distribution: imbalanced --> MinMaxScaler 
