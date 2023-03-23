@@ -65,4 +65,8 @@
     - deep layers to make training hard --> prevent OVERFITTING 
 - 03/04~03/06: PPT 
 - 03/07: CODE & PPT Final Check     
-
+- 03/22/2023(WED): DL modeling
+  - LSTM, Sequential Model 
+- 03/23/2023(THU): cross-validation + feature Importance
+  - cross-validation score 0.55~0.6 is good (if cross validation > 0.7~0.8, then it seems like overfitting) 
+  - use ONLY import features(SHAP) with catBoostClassifier 
